@@ -1,0 +1,21 @@
+<select>
+<option value="Almeria">Almeria</option>
+<option value="Athletic">Athletic</option>
+<option value="Atletico">Atletico</option>
+<option value="Barcelona">Barcelona</option>
+<option value="Celta">Celta</option>
+<option value="Cordoba">Cordoba</option>
+<option value="Deportivo">Deportivo</option>
+<option value="Eibar">Eibar</option>
+<option value="Elche">Elche</option>
+<option value="Espanyol">Espanyol</option>
+<option value="Getafe">Getafe</option>
+<option value="Granada">Granada</option>
+<option value="Levante">Levante</option>
+<option value="Malaga">Malaga</option>
+<option value="Rayo">Rayo</option>
+<option value="Real">Real</option>
+<option value="Real">Real</option>
+<option value="Seville">Seville</option>
+<option value="Valencia">Valencia</option>
+</select>
